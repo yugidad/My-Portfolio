@@ -201,7 +201,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/Capture.PNG);
+	background-image: url(./Capture.PNG);
 	/* backdrop-filter: blur(-20%); */
 	/* backdrop-filter: transparent; */
 	background-size: cover;
